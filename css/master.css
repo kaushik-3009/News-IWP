@@ -160,3 +160,10 @@ a{
   padding: 10px 30px 20px 30px;
   text-align: justify;
 }
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding: 4rem 3rem 3rem 3rem;
+  background-color: #222;
+  color: white;
+}
